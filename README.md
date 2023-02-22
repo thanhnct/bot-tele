@@ -1,1 +1,1 @@
-# bot-tele
+# telebot
